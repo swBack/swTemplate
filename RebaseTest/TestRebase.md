@@ -6,6 +6,6 @@
 
 rebase Test commit 1
 
-rebase Test commit 2
+#rebase Test commit 2
 
 rebase START before last commit
